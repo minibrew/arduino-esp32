@@ -130,7 +130,7 @@ typedef enum{
 } tcpip_adapter_dhcp_option_mode_t;
 
 /* Deprecated name for tcpip_adapter_dhcp_option_mode_t, to remove after ESP-IDF V4.0 */
-typedef tcpip_adapter_dhcp_option_mode_t tcpip_adapter_option_mode_t;
+//typedef tcpip_adapter_dhcp_option_mode_t tcpip_adapter_option_mode_t;
 
 /** @brief Supported options for DHCP client or DHCP server */
 typedef enum{
@@ -142,7 +142,7 @@ typedef enum{
 } tcpip_adapter_dhcp_option_id_t;
 
 /* Deprecated name for tcpip_adapter_dhcp_option_id_t, to remove after ESP-IDF V4.0 */
-typedef tcpip_adapter_dhcp_option_id_t tcpip_adapter_option_id_t;
+//typedef tcpip_adapter_dhcp_option_id_t tcpip_adapter_option_id_t;
 
 /** IP event declarations */
 typedef enum {
