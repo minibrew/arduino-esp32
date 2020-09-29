@@ -4,6 +4,7 @@
  *  Created on: Jun 22, 2017
  *      Author: kolban
  */
+#define ARDUINO_ARCH_ESP32
 #include "sdkconfig.h"
 #if defined(CONFIG_BT_ENABLED)
 #include <sstream>

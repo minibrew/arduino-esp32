@@ -12,6 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+#define ARDUINO_ARCH_ESP32
 #include "sdkconfig.h"
 #include <cstdint>
 #include <cstdio>
