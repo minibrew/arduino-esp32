@@ -19,6 +19,7 @@
 #ifndef USBCLASS_HID_TYPES
 #define USBCLASS_HID_TYPES
 
+#define ARDUINO_ARCH_ESP32
 #include <stdint.h>
 
 /* */
